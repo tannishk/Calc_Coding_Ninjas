@@ -12,11 +12,11 @@ Android v5
 
 
 ### Screenshots
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IOSKe"><a href="//imgur.com/IOSKe"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Screen Shot](https://i.imgur.com/UfjGVPH.png)
 
 ## Built With
 
-* [Dropwizard](https://developer.android.com/studio/index.html) - Android Studio
+* [Android Studio](https://developer.android.com/studio/index.html) - Android Studio
 
 
 ## Authors
